@@ -1,2 +1,2 @@
 # DigitalWallClock
-Простые настенные часы на семисегментных индикаторах
+Simple wall clocks on 7-seg display

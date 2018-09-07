@@ -6,3 +6,6 @@
 
 # Ignore all .zip files
 *.zip
+
+# Ignore .PrjPcbStructure file
+*.PrjPcbStructure
